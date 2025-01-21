@@ -1,12 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=WELCOME&fontSize=60" />
 
-## Hi
-Hello, I'm Noori Bae, aspiring to become an AI Developer specializing in Large Language Models (LLMs) :)
+## 📌 About Me
+Hello! I'm Noori Bae, interested in developing AI solutions using Large Language Models (LLMs).
 
-I am particularly interested in ChatGPT, LangChain, RAG, and various LLM-based applications, including chatbot development, Q&A systems, and personalized content generation. My work focuses on exploring innovative ways to apply LLMs to solve real-world problems.
+I enjoy working on LLM-based applications like chatbots, Q&A systems, and personalized tools, and I’m always looking for ways to combine my technical skills with user-focused ideas to create meaningful projects. Exploring ChatGPT, LangChain, and RAG has been especially exciting for me, and I love learning new things along the way.
 
-Feel free to check out my projects and repositories to see my journey in AI development!
+Thanks for stopping by, and feel free to check out my projects!
 
+✉️ Email nooribae1115@gmail.com
 
 
 
