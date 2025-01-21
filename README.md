@@ -9,7 +9,7 @@ Thanks for stopping by, and feel free to check out my projects!
 
 ✉️ Email nooribae1115@gmail.com
 
-
+<br>
 
 ## 🔍 Skills & Frameworks
 
@@ -17,7 +17,7 @@ Thanks for stopping by, and feel free to check out my projects!
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />  <img src="https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge&logo=mediapipe&logoColor=white" />  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />  
 
-
+<br>
 
 ## 🎓 Education 
 
@@ -27,5 +27,5 @@ Thanks for stopping by, and feel free to check out my projects!
 2022.05.16 - 2022.06.10  |  이노베이션 아카데미 소프트웨어 교육프로그램 (42서울 - 라피신)
 
 
-
+<br>
 
