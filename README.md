@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=WELCOME&fontSize=60" />
 
-## 인공지능 개발자 배누리입니다. 
+## Hi
+Hello, I'm Noori Bae, aspiring to become an AI Developer specializing in Large Language Models (LLMs) :)
+
+I am particularly interested in ChatGPT, LangChain, RAG, and various LLM-based applications, including chatbot development, Q&A systems, and personalized content generation. My work focuses on exploring innovative ways to apply LLMs to solve real-world problems.
+
+Feel free to check out my projects and repositories to see my journey in AI development!
 
 
 
@@ -19,5 +24,7 @@
 
 
 2022.05.16 - 2022.06.10  |  이노베이션 아카데미 소프트웨어 교육프로그램 (42서울 - 라피신)
+
+
 
 
