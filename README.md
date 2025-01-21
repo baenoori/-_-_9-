@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=60" />
 <br>
+
 ## 📌 About Me
 Hello! I'm Noori Bae, interested in developing AI solutions using Large Language Models (LLMs).
 
