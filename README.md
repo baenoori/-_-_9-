@@ -30,3 +30,5 @@ Thanks for stopping by, and feel free to check out my projects!
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baenoori)](https://github.com/anuraghazra/github-readme-stats)
+
